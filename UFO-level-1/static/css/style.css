@@ -8,6 +8,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
+  text-transform: capitalize;
 }
 
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
@@ -57,16 +58,14 @@ select {
   outline: none;
 }
 
+table {
+  background-color: rgba(53, 53, 53, 0.822);
+}
+
 #table-area th {
   text-align: center;
   text-transform: capitalize;
   background-color: rgba(44, 44, 44, 0.87);
-}
-
-#tbody {
-  
-  background-color: rgba(78, 185, 150, 0.822);
-
 }
 
 #table-area th:first-child,
