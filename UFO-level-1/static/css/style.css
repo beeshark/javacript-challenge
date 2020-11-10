@@ -69,12 +69,13 @@ select {
   display: block;
   width: 100%;
   padding: 8px;
-  color: #8e979f;
+  color: #57c24e;
   outline: none;
 }
 
 #table-area th {
   text-align: center;
+  text-transform: capitalize;
 }
 
 #table-area th:first-child,
