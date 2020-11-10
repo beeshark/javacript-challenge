@@ -49,7 +49,7 @@ select {
   display: block;
   width: 100%;
   padding: 8px;
-  color: #57c24e;
+  color: #383838;
   outline: none;
 }
 
@@ -83,6 +83,7 @@ select {
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
+  -webkit-filter: grayscale(1);
 }
 
 .hero h1 {
