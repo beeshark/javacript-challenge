@@ -27,4 +27,9 @@ function clickEvent() {
 }
 
 d3.selectAll("#filter-btn").on("click", clickEvent);
+
+
+// idk
+
+
 //var tbody = d3.select("tbody");
